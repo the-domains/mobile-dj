@@ -1,0 +1,28 @@
+name: Mobile DJ
+favicon: null
+layout_spectrum: 0.3740293690934777
+typography_spectrum: 0.7673418580088764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5981821054592729
+  lightness: 0.6666122395545244
+  saturation: 0.14442798891104758
+  rhythmicContrast: 0.2536323592066765
+purpose: []
